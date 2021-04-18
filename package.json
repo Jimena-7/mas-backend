@@ -1,0 +1,9 @@
+{
+  "name": "mas-backend",
+  "version": "1.0.0",
+  "description": "api web aplication",
+  "main": "server.ts",
+  "repository": "https://github.com/Jimena-7/mas-backend.git",
+  "author": "Jimena Jardi",
+  "license": "MIT"
+}
