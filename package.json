@@ -6,6 +6,12 @@
   "repository": "https://github.com/Jimena-7/mas-backend.git",
   "author": "Jimena Jardi",
   "license": "MIT",
+
+  "scripts":{
+    "dev":"ts-node-dev --transpile-only --ignore-watch nodule-modules src/server.ts"
+  },
+
+
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
